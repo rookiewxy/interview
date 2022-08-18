@@ -1,15 +1,17 @@
 #### 上机测试题：
-#### CSS
+### CSS
 1. 纯css实现一个太极图
 ![image](https://user-images.githubusercontent.com/65204427/185289232-4516344c-8ab1-42ec-bbae-3e3caf889dc3.png)
+
 
 2. 用你知道的技术实现，实现一个loading效果
 ![image](https://user-images.githubusercontent.com/65204427/185289151-e83bbde0-eced-46b8-b420-8060e0b2bf00.png)
 
-3. 用你知道的技术实现，实现一下效果
-http://www.softeem.xin:8090/upload/2022/04/16be0c763481102b-326c0d0182a443d484494e0c3f243759.gif
 
-#### JS
+3. 用你知道的技术实现，实现一下效果
+<image src="http://www.softeem.xin:8090/upload/2022/04/16be0c763481102b-326c0d0182a443d484494e0c3f243759.gif"/>
+
+### JS
 1. 设计一个函数 unique ，可以对一个数组去重，要求不少于2种方案实现
 
 2. 编写一个函数，实现将字符串中的 - 去掉以后再将后面的首字母转大写。如下所示
